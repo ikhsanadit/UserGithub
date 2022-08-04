@@ -1,0 +1,278 @@
+<resources>
+    <string name="app_name">UserGithub</string>
+    <string name="tab_text_flwr">Followers</string>
+    <string name="tab_text_flwg">Following</string>
+
+    <string name="gov_name">Nama</string>
+    <string name="username">Username</string>
+    <string name="folowers">Folower</string>
+    <string name="folowing">Folowing</string>
+    <string name="company">Company</string>
+    <string name="location">Location</string>
+    <string-array name="data_name">
+        <item>Ir. H. Joko Widodo</item>
+        <item>Prof. Dr. (H.C.) K.H. Ma’ruf Amin</item>
+        <item>Mohammad Mahfud Md.</item>
+        <item>Airlangga Hartarto</item>
+        <item>Muhadjir Effendy</item>
+        <item>Luhut Binsar Pandjaitan</item>
+        <item>Pratikno</item>
+        <item>Muhammad Tito Karnavian</item>
+        <item>Retno Lestari Priansari Marsudi</item>
+        <item>Prabowo Subianto</item>
+        <item>Yaqut Cholil Qoumas</item>
+        <item>Yasonna H. Laoly</item>
+        <item>Sri Mulyani Indrawati</item>
+        <item>Nadiem Anwar Makarim</item>
+        <item>Budi Gunadi Sadikin</item>
+        <item>Tri Rismaharini</item>
+        <item>Ida Fauziyah</item>
+        <item>Agus Gumiwang Kartasasmita</item>
+        <item>Muhammad Lutfi</item>
+        <item>Arifin Tasrif</item>
+        <item>Mochamad Basuki Hadimuljono</item>
+        <item>Budi Karya Sumadi</item>
+        <item>Johnny Gerard Plate</item>
+        <item>Syahrul Yasin Limpo</item>
+        <item>Siti Nurbaya</item>
+        <item>Sakti Wahyu Trenggono</item>
+        <item>A. Halim Iskandar</item>
+        <item>Sofyan A. Djalil</item>
+        <item>Suharso Monoarfa</item>
+        <item>Tjahjo Kumolo</item>
+        <item>Erick Thohir</item>
+        <item>Teten Masduki</item>
+        <item>Sandiaga Salahuddin Uno</item>
+        <item>I Gusti Ayu Bintang Darmavati</item>
+        <item>Bahlil Lahadalia</item>
+        <item>Zainudin Amali</item>
+    </string-array>
+    <string-array name="data_username">
+        <item>jkw</item>
+        <item>mrf</item>
+        <item>mfmd</item>
+        <item>arhr</item>
+        <item>mhef</item>
+        <item>lht</item>
+        <item>prtk</item>
+        <item>mtikar</item>
+        <item>retmar</item>
+        <item>prasub</item>
+        <item>yaq</item>
+        <item>yasna</item>
+        <item>smul</item>
+        <item>namak</item>
+        <item>bugun</item>
+        <item>tris</item>
+        <item>dafau</item>
+        <item>gusgum</item>
+        <item>mlut</item>
+        <item>artas</item>
+        <item>mbas</item>
+        <item>bukar</item>
+        <item>john</item>
+        <item>syahyas</item>
+        <item>snur</item>
+        <item>sakwhy</item>
+        <item>hlmis</item>
+        <item>sofdj</item>
+        <item>suharmo</item>
+        <item>tjku</item>
+        <item>ertho</item>
+        <item>ttnmas</item>
+        <item>sano</item>
+        <item>igabd</item>
+        <item>bahla</item>
+        <item>zaina</item>
+    </string-array>
+    <string-array name="data_follower">
+        <item>30 Follower</item>
+        <item>20 Follower</item>
+        <item>10 Follower</item>
+        <item>20 Follower</item>
+        <item>11 Follower</item>
+        <item>13 Follower</item>
+        <item>3 Follower</item>
+        <item>12 Follower</item>
+        <item>6 Follower</item>
+        <item>22 Follower</item>
+        <item>3 Follower</item>
+        <item>11 Follower</item>
+        <item>4 Follower</item>
+        <item>2 Follower</item>
+        <item>2 Follower</item>
+        <item>21 Follower</item>
+        <item>12 Follower</item>
+        <item>3 Follower</item>
+        <item>2 Follower</item>
+        <item>4 Follower</item>
+        <item>4 Follower</item>
+        <item>7 Follower</item>
+        <item>4 Follower</item>
+        <item>5 Follower</item>
+        <item>6 Follower</item>
+        <item>8 Follower</item>
+        <item>7 Follower</item>
+        <item>9 Follower</item>
+        <item>5 Follower</item>
+        <item>6 Follower</item>
+        <item>2 Follower</item>
+        <item>5 Follower</item>
+        <item>3 Follower</item>
+        <item>4 Follower</item>
+        <item>5 Follower</item>
+        <item>7 Follower</item>
+    </string-array>
+    <string-array name="data_following">
+        <item>10 Following</item>
+        <item>8 Following</item>
+        <item>3 Following</item>
+        <item>6 Following</item>
+        <item>5 Following</item>
+        <item>9 Following</item>
+        <item>2 Following</item>
+        <item>3 Following</item>
+        <item>6 Following</item>
+        <item>5 Following</item>
+        <item>8 Following</item>
+        <item>10 Following</item>
+        <item>7 Following</item>
+        <item>4 Following</item>
+        <item>9 Following</item>
+        <item>9 Following</item>
+        <item>8 Following</item>
+        <item>5 Following</item>
+        <item>4 Following</item>
+        <item>7 Following</item>
+        <item>3 Following</item>
+        <item>8 Following</item>
+        <item>9 Following</item>
+        <item>6 Following</item>
+        <item>5 Following</item>
+        <item>4 Following</item>
+        <item>9 Following</item>
+        <item>5 Following</item>
+        <item>4 Following</item>
+        <item>3 Following</item>
+        <item>7 Following</item>
+        <item>5 Following</item>
+        <item>8 Following</item>
+        <item>9 Following</item>
+        <item>7 Following</item>
+        <item>6 Following</item>
+    </string-array>
+    <string-array name="data_company">
+        <item>Presiden Republik Indonesia</item>
+        <item>Wakil Presiden Republik Indonesia</item>
+        <item>Menteri Koordinator Bidang Politik, Hukum, dan Keamanan</item>
+        <item>Menteri Koordinator Bidang Perekonomian</item>
+        <item>Menteri Koordinator Bidang Pembangunan Manusia dan Kebudayaan</item>
+        <item>Menteri Koordinator Bidang Kemaritiman dan Investasi</item>
+        <item>Menteri Sekretaris Negara</item>
+        <item>Menteri Dalam Negeri</item>
+        <item>Menteri Luar Negeri</item>
+        <item>Menteri Pertahanan</item>
+        <item>Menteri Agama</item>
+        <item>Menteri Hukum dan Hak Asasi Manusia</item>
+        <item>Menteri Keuangan</item>
+        <item>Menteri Pendidikan, Kebudayaan, Riset, dan Teknologi</item>
+        <item>Menteri Kesehatan</item>
+        <item>Menteri Sosial</item>
+        <item>Menteri Ketenagakerjaan</item>
+        <item>Menteri Perindustrian</item>
+        <item>Menteri Perdagangan</item>
+        <item>Menteri Energi dan Sumber Daya Mineral</item>
+        <item>Menteri Pekerjaan Umum dan Perumahan Rakyat</item>
+        <item>Menteri Perhubungan</item>
+        <item>Menteri Komunikasi dan Informatika</item>
+        <item>Menteri Pertanian</item>
+        <item>Menteri Lingkungan Hidup dan Kehutanan</item>
+        <item>Menteri Kelautan dan Perikanan</item>
+        <item>Menteri Desa, Pembangunan Daerah Tertinggal, dan Transmigrasi</item>
+        <item>Menteri Agraria dan Tata Ruang</item>
+        <item>Menteri Perencanaan Pembangunan Nasional</item>
+        <item>Menteri Pendayagunaan Aparatur Negara dan Reformasi Birokrasi</item>
+        <item>Menteri Badan Usaha Milik Negara</item>
+        <item>Menteri Koperasi dan Usaha Kecil dan Menengah</item>
+        <item>Menteri Pariwisata dan Ekonomi Kreatif</item>
+        <item>Menteri Pemberdayaan Perempuan dan Perlindungan Anak</item>
+        <item>Menteri Investasi</item>
+        <item>Menteri Pemuda dan Olahraga</item>
+    </string-array>
+    <string-array name="data_location">
+        <item>Jakarta, ID</item>
+        <item>Jakarta, ID</item>
+        <item>Bogor, ID</item>
+        <item>Bekasi, ID</item>
+        <item>Bogor, ID</item>
+        <item>Bekasi, ID</item>
+        <item>Jakarta, ID</item>
+        <item>Bogor, ID</item>
+        <item>Bekasi, ID</item>
+        <item>Bogor, ID</item>
+        <item>Yogyakarta, ID</item>
+        <item>Jakarta, ID</item>
+        <item>Jakarta, ID</item>
+        <item>Yogyakarta, ID</item>
+        <item>Bekasi, ID</item>
+        <item>Bogor, ID</item>
+        <item>Bekasi, ID</item>
+        <item>Yogyakarta, ID</item>
+        <item>Jakarta, ID</item>
+        <item>Bogor, ID</item>
+        <item>Yogyakarta, ID</item>
+        <item>Bekasi, ID</item>
+        <item>Jakarta, ID</item>
+        <item>Yogyakarta, ID</item>
+        <item>Bekasi, ID</item>
+        <item>Yogyakarta, ID</item>
+        <item>Bogor, ID</item>
+        <item>Yogyakarta, ID</item>
+        <item>Jakarta, ID</item>
+        <item>Bekasi, ID</item>
+        <item>Yogyakarta, ID</item>
+        <item>Bogor, ID</item>
+        <item>Yogyakarta, ID</item>
+        <item>Yogyakarta, ID</item>
+        <item>Yogyakarta, ID</item>
+        <item>Yogyakarta, ID</item>
+    </string-array>
+    <integer-array name="data_avatar">
+        <item>@drawable/jokowi</item>
+        <item>@drawable/maruf</item>
+        <item>@drawable/mahfud</item>
+        <item>@drawable/airlangga</item>
+        <item>@drawable/muhadjir</item>
+        <item>@drawable/luhut</item>
+        <item>@drawable/pratikno</item>
+        <item>@drawable/tito</item>
+        <item>@drawable/retno</item>
+        <item>@drawable/prabowo</item>
+        <item>@drawable/yaqutcholilqoumas</item>
+        <item>@drawable/yasonna</item>
+        <item>@drawable/srimulyani</item>
+        <item>@drawable/nadiem</item>
+        <item>@drawable/budigunadisadikin</item>
+        <item>@drawable/trirismaharini</item>
+        <item>@drawable/ida</item>
+        <item>@drawable/agusgumiwang</item>
+        <item>@drawable/muhammadlutfi</item>
+        <item>@drawable/arifin</item>
+        <item>@drawable/basuki</item>
+        <item>@drawable/budi</item>
+        <item>@drawable/johnny</item>
+        <item>@drawable/syahrul</item>
+        <item>@drawable/siti</item>
+        <item>@drawable/saktiwahyutrenggono</item>
+        <item>@drawable/halim</item>
+        <item>@drawable/sofyandjalil</item>
+        <item>@drawable/suharso</item>
+        <item>@drawable/tjahjo</item>
+        <item>@drawable/erick</item>
+        <item>@drawable/tetenmasduki</item>
+        <item>@drawable/sandiagauno</item>
+        <item>@drawable/igustiayu</item>
+        <item>@drawable/bahlillahadalia</item>
+        <item>@drawable/zainudin</item>
+    </integer-array>
+</resources>
